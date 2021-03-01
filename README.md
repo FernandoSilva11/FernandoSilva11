@@ -25,7 +25,7 @@ https://modalgr.com.br/
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/fernandosilvabarreto/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fernandosilvabarreto/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 
 <a href="https://fernandosilvabarreto1.medium.com/"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
 
