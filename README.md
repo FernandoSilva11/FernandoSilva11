@@ -3,7 +3,8 @@
 ==========================================================================================================================================
 
 
-My name is Fernando Silva Barrêto. I work as a Automatizador de Testes - Estágiario at ModalGr.
+Meu nome é Fernando Silva Barrêto. Eu trabalho como Automatizador de Testes - Estágiario na ModalGr.
+https://modalgr.com.br/
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FernandoSilva11&repo=FernandoSilva11&countColorcountColor)
 
@@ -20,7 +21,7 @@ My name is Fernando Silva Barrêto. I work as a Automatizador de Testes - Estág
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=FernandoSilva11&hide_border=true)
 
-### Let's connect? 🤝
+### Chama lá 🤝
 
 <p align="left">
 
