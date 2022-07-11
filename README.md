@@ -9,8 +9,7 @@ https://modalgr.com.br/
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FernandoSilva11&repo=FernandoSilva11&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![Gherkin](https://img.shields.io/badge/-Gherkin-05122A?style=flat&color=green)&nbsp;![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&color=green)&nbsp;  
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&color=orange)&nbsp;![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&color=orange)&nbsp;![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&color=orange)&nbsp;  
+![Gherkin](https://img.shields.io/badge/-Gherkin-05122A?style=flat&color=green)&nbsp;![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&color=orange)&nbsp;![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&color=orange)&nbsp;![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&color=orange)&nbsp;  
 
 
 ### Analytics ⚙️
