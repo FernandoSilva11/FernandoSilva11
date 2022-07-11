@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-Meu nome é Fernando Silva Barrêto. Eu trabalho como Automatizador de Testes - Estágiario na ModalGr.
+Meu nome é Fernando Silva Barrêto. Eu trabalho como Analista de Testes - JR na ModalGr.
 https://modalgr.com.br/
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FernandoSilva11&repo=FernandoSilva11&countColorcountColor)
