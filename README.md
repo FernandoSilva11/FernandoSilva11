@@ -15,7 +15,7 @@ https://modalgr.com.br/
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSilva11&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSilva11&layout=compact&count_private=false)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=FernandoSilva11&count_private=true&show_icons=true)
 
